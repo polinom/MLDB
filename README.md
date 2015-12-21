@@ -10,3 +10,5 @@ Exactly now I'm insterested in Deep Learning as this is booming area and people 
 [Coursearea](https://www.coursera.org/course/neuralnets) course Neural Networks for Machine Learning by Geoffrey Hinton
 
 [MIT paper on Deep Learning](http://www.iro.umontreal.ca/~bengioy/dlbook/version-07-08-2015/dlbook.html) - An MIT Press book in preparation Yoshua Bengio, Ian Goodfellow and Aaron Courville
+
+[Deep Learning Summer School, Montreal 2015](http://videolectures.net/deeplearning2015_salakhutdinov_deep_learning/)

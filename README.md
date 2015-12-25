@@ -5,6 +5,8 @@ Exactly now I'm insterested in Deep Learning as this is booming area and people 
 
 ###Deep Learning
 
+[Introduction to Neural Network by Welch Labs](https://www.youtube.com/watch?v=bxe2T-V8XRs&list=PLiaHhY2iBX9hdHaRr6b7XevZtgZRa1PoU) - Very first thing you have to watch before getting into neaural network.
+
 [Introduction To Deep Learning](http://neuralnetworksanddeeplearning.com/chap1.html) - online book by Michael Nielsen 
 
 [Coursearea](https://www.coursera.org/course/neuralnets) course Neural Networks for Machine Learning by Geoffrey Hinton
